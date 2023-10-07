@@ -28,7 +28,7 @@ Getting started with ML? What else would be better than Implementing it.
 
 So welcome ML Enthusiast. You are at the right place.😊
 
-GDSC TECH provide some awesome ML related projects to work upon and enhance your skills.
+GDSC TECB provide some awesome ML related projects to work upon and enhance your skills.
 
 The motive🎯 of this project is to help new learners like you to get familiar with Machine Learning
 
