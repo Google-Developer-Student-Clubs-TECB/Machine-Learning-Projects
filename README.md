@@ -19,23 +19,21 @@ Create a Pull request and add any feature update to the repository.
 
 ## How to contribute to this project?
 
-Here are 2 quick and painless ways to contribute to this project:
+Here are 2 ways to contribute to this project:
 
-* Create a ML project and generate a pull request to accept it
-
-
+* Create a ML project add it to your forked repo and generate a pull request to accept it
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine.
 
 ```markdown
-git clone https://github.com/wbhoomika/python4beginners-Hacktoberfest23
+git clone https://github.com/Google-Developer-Student-Clubs-TECB/Machine-Learning-Projects
 ```
 
 
 
-* Add folder.
+* Add your project folder.
 * Commit and push your code.
 
 ```markdown
