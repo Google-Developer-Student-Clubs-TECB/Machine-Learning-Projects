@@ -17,6 +17,8 @@ from collections import OrderedDict
 from google.colab.patches import cv2_imshow
 
 
+
+
 # Load a pre-trained Faster R-CNN model
 model = fasterrcnn_resnet50_fpn(pretrained=True)
 model.eval()
