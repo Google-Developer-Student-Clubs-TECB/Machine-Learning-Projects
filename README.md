@@ -33,7 +33,7 @@ Happy coding.👍
 
 <div id="Open-Source-Program"></div>
 
-# This Project is a part of Hacktober Fest 2k23 Open Source Program
+# This Project is a part of Hacktober Fest 2k23
 
 <br>
 
@@ -106,14 +106,14 @@ You can ask questions by raising an [issue](https://github.com/Google-Developer-
 
 **1. Fork the project:**
 
-- Click the gray Fork button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. ![fork](https://github.com/Google-Developer-Student-Clubs-TECB/Machine-Learning-Projects.git)
+- Click the gray [fork](https://github.com/Google-Developer-Student-Clubs-TECB/Machine-Learning-Projects.git) button at the top right of this page. This creates your copy of the project and saves it as a new repository in your GitHub account. 
 
 **2. Clone this project on your computer:**
 
 - Go to your profile. You will find forked repo named **_open-source-practice_**. go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
-- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer. ![git-clone](https://github.com/Google-Developer-Student-Clubs-TECB/Machine-Learning-Projects.git)
+- Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
   git clone https://github.com/YOUR_GITHUB_USERNAME/Machine-Learning-Projects.git
@@ -125,8 +125,7 @@ You can ask questions by raising an [issue](https://github.com/Google-Developer-
 
 **3. Create a new branch:**
 
-- Your username would make a good branch because it's unique. ![git-checkout](https://github.com/<YOUR_GITHUB_USERNAME>/Machine-Learning-Projects/tree/main)
-
+- Your username would make a good branch because it's unique.
 ```bash
   git checkout -b <name-of-new-branch>
 ```
@@ -166,7 +165,6 @@ nothing to commit, working tree clean
   git push origin <name-of-your-branch>
 ```
 
-or
 
 > **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
 
@@ -192,5 +190,9 @@ Hurray! You successfully made your first contribution! 🎉
 We take participation in our community as a harassment-free experience for everyone and we pledge to act in ways to contribute to an open, welcoming, diverse and inclusive community.
 
 
+## Code of Conduct
 
+Please make sure to review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+Thank you for contributing to GDSC TECB's official website! If you have any questions or need further assistance, feel free to reach out. Happy coding!
 
