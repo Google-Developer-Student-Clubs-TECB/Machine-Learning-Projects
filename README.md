@@ -18,15 +18,11 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <div id="About"></div>
 
-# About❓
+# About
 Getting started with ML? What else would be better than Implementing it.
-
 So welcome ML Enthusiast. You are at the right place.😊
-
 GDSC TECB provide some awesome ML related projects to work upon and enhance your skills.
-
-The motive🎯 of this project is to help new learners like you to get familiar with Machine Learning
-
+The motive🎯 of this project is to help new learners like you to get familiar with Machine Learning.
 Happy coding.👍
 
 **So, What are you waiting for?**
@@ -37,7 +33,7 @@ Happy coding.👍
 
 <div id="Open-Source-Program"></div>
 
-# This Project is a part of the following Open Source Program❤️
+# This Project is a part of Hacktober Fest 2k23 Open Source Program
 
 <br>
 
