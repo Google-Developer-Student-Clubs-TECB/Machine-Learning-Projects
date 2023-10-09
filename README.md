@@ -1,18 +1,13 @@
 <div id="top"></div>
+<h1 align="center">GDSC TECB MACHINE LEARNING PROJECTS </h1>
 
 
-<h1 align="center">GDSC TECB MACHINE LEARNING PROJECT  </h1>
-<p align="center">
-    <a href="https://hacktoberfest.com/" target="_blank">
-    	<img src="https://miro.medium.com/v2/resize:fit:1400/0*McOGR_vW3LivYNor.png" width="800px" height="400px">
-    </a>
-</p>
+
+
+![GDSC TECB](https://github.com/Google-Developer-Student-Clubs-TECB/GDSC-TECB-official-website/assets/146541136/a0495f39-5a75-4a56-8897-d140145a341b)
+
 
  <!-- ---------------------------------------------------------------------------------------------------------------------- -->
-
-# HacktoberFest23
-
-
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
