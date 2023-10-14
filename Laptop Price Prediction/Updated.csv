@@ -1,0 +1,985 @@
+SSD,SSD Capacity,RAM,OS,GPU,GPU Benchmark,Price
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,35990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,27990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,33990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,34990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated,2685,52990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,32990.0
+Yes,256,8.0,Windows,Intel Integrated UHD Graphics,2986,34990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,40990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,37390.0
+Yes,1000,8.0,Windows,NVIDIA GeForce GTX 1650,7566,52990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,41990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,31990.0
+Yes,256,8.0,Mac,ABC,0,79990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,16.0,Windows,AMD Radeon Radeon Graphics,3909,45990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,52990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe Graphics,2685,44990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,35990.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,62990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,44990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,37990.0
+Yes,256,4.0,DOS,ABC,0,22490.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,48990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,39990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,49990.0
+Yes,512,16.0,Windows,Intel Integrated UHD Graphics,2986,65990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,52990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,39790.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,40490.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,52990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,65990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,53990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,256,4.0,Windows,AMD Radeon AMD,3876,22490.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,57990.0
+Yes,128,4.0,Windows,Intel Integrated UHD,2986,20990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,34990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,65990.0
+Yes,512,8.0,DOS,AMD Radeon AMD Radeon™ Graphics,2888,27490.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,60990.0
+No,0,8.0,Windows,AMD Radeon,3356,23990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,87990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,38490.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,69990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,40990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,49490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2050,6924,59990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,47990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,37990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,28990.0
+Yes,1000,8.0,Windows,Intel Integrated Integrated,2685,65990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,23990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,36990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,40990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,36990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,24490.0
+Yes,512,16.0,Windows,AMD Radeon AMD Radeon™ Vega 7 Graphics,4533,51990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,52990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,40499.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,59990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,256,8.0,Mac,ABC,0,107910.0
+Yes,256,8.0,Windows,Intel Integrated UHD Graphics,2986,34490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe Graphics,2685,68990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,65990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,76990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,40990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,105990.0
+Yes,512,16.0,Windows,Intel Integrated UHD Graphics,2986,57990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,38990.0
+Yes,256,8.0,Mac,ABC,0,107990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe Graphics,2685,65990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,35990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,60990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 4050,38904,109990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,1000,16.0,Windows,Intel Integrated Integrated,2685,79990.0
+Yes,128,4.0,Windows,Intel Integrated UHD,2986,20990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,46990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,27990.0
+No,0,4.0,Windows,Intel Integrated UHD 600,2986,14990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RTX 3050,29831,89990.0
+Yes,512,16.0,Windows,AMD Radeon RX 6500M,7996,59990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,46990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,24990.0
+Yes,1000,16.0,Windows,Intel Integrated UHD Graphics,2986,84999.0
+Yes,512,16.0,Windows,NVIDIA GeForce GTX 1650,7566,61990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,45990.0
+Yes,512,16.0,Windows,AMD Radeon Radeon,4570,56999.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,54990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,58990.0
+Yes,512,16.0,Windows,NVIDIA GeForce GTX 1650,7566,52990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,54990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,36590.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,43990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,33990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,58990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 4060,19493,115990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,38990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,35990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon Graphics,3909,55490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,AMD Radeon Vega 7 Graphics,2804,62990.0
+Yes,256,8.0,Windows,NVIDIA GeForce RTX 3050,12982,62990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,83990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,49990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,58990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,43990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 4050,38904,102990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,72749.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,62990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,89990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,43990.0
+Yes,512,16.0,Windows,NVIDIA GeForce GTX 1650,7566,52990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,104990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,65990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,56990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,54490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,AMD Radeon AMD,3876,78990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,40990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,70570.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,72990.0
+No,0,4.0,Chrome,Intel Integrated UHD,2986,14990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050Ti,12982,89990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,40990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,68990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 2050,6924,57990.0
+Yes,512,8.0,Windows,AMD Radeon AMD Radeon 610M Graphics,2888,36990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,54100.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,AMD Radeon Radeon Graphics,3909,63990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 4080,34781,279990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,34990.0
+Yes,512,16.0,Windows,Intel Integrated 96EU Iris Xe,2685,66990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,54999.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,52990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,61990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,84989.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,109990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,60990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,69990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,256,16.0,Windows,NVIDIA GeForce RTX 4060,19493,89990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,65990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,99990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,51990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,52990.0
+Yes,512,16.0,Mac,ABC,0,229990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Mac,ABC,0,154900.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,38490.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,60990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4050,38904,152990.0
+Yes,1000,16.0,Windows,AMD Radeon AMD,3876,78990.0
+Yes,256,8.0,Mac,ABC,0,106990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,1000,32.0,Windows,Intel Integrated Iris Xe,2685,144990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,69990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,256,16.0,Windows,NVIDIA GeForce RTX 2050,6924,64990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 2050,6924,57990.0
+Yes,512,16.0,Mac,ABC,0,229990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+Yes,256,8.0,Mac,ABC,0,134900.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,58990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,256,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,23390.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,67990.0
+Yes,256,16.0,Mac,ABC,0,111990.0
+Yes,512,8.0,Windows,AMD Radeon,3356,43590.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3060,17121,104990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2050,6924,92990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,256,8.0,Mac,ABC,0,119990.0
+Yes,256,8.0,Mac,ABC,0,119990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,60990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,74990.0
+Yes,1000,16.0,Mac,ABC,0,248490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,AMD Radeon RX 6700M,13282,109990.0
+Yes,512,8.0,Mac,ABC,0,137990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated,2685,109990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,110990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,119990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,138990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,84990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4060,19493,169990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,57990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,54490.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,69990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,52990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,29750.0
+Yes,256,8.0,Windows,AMD Radeon AMD,3876,29990.0
+Yes,1000,16.0,Windows,AMD Radeon AMD,3876,66990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,99990.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,76990.0
+Yes,512,8.0,Windows,Intel Integrated Intel Iris Xe Graphics,2685,58990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,53990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,30990.0
+Yes,256,8.0,Windows,AMD Radeon Radeon Graphics,3909,34790.0
+Yes,1000,16.0,Windows,ABC,0,139990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,256,8.0,Windows,NVIDIA GeForce MX550,4546,69490.0
+No,0,4.0,Windows,Qualcomm Adreno Adreno,3528,32990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,92990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,34990.0
+Yes,512,16.0,Windows,AMD Radeon RDNA 3 AMD,3139,69990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,56990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,50990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,42890.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Mac,ABC,0,137990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,41990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,54990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,58990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,41980.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,99990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,30990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,66990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,55990.0
+Yes,512,8.0,Windows,NVIDIA GeForce MX550,4546,67990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated Arc A350M,2986,71990.0
+Yes,512,8.0,Windows,Intel Integrated Intel® UHD Graphics,2986,35490.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4060,19493,156990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX3050- 4GB,4479,103500.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,68990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,49990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,57990.0
+Yes,256,8.0,Windows,AMD Radeon Radeon Graphics,3909,36690.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,91199.0
+Yes,512,8.0,Windows,ABC,0,40990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe Graphics,2685,63990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,58990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated Intel Iris Xe Graphics,2685,66390.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,26990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,49990.0
+Yes,1000,16.0,Mac,ABC,0,229990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,38990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,89990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,60990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon,4570,53490.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX 3060,17121,224990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,45990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,57990.0
+Yes,512,16.0,Windows,NVIDIA GeForce MX450,3733,64700.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe Graphics,2685,87990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,62990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,100990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2050,6924,59990.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,ABC,0,40990.0
+Yes,512,8.0,Mac,ABC,0,154900.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,40990.0
+Yes,1000,16.0,Windows,AMD Radeon Radeon 680M,3267,131990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,45990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3080,25365,180990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,AMD Radeon,3356,57990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon,4570,55990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,42990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,27990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,66999.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 4050,38904,102990.0
+Yes,512,16.0,Windows,Intel Integrated UHD,2986,113104.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,40690.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,62990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon Graphics,3909,37440.0
+Yes,512,16.0,Windows,AMD Radeon Radeon Graphics,3909,73890.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650Ti,7566,56990.0
+Yes,1000,16.0,Mac,ABC,0,225090.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,124990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,71990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,28490.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,45990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,137990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,37490.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RTX 3060,20594,164990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,54990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,33390.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,58490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,AMD Radeon Vega Graphics,15667,46490.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,44990.0
+Yes,512,16.0,Windows,AMD Radeon,3356,54990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,58990.0
+Yes,512,8.0,Mac,ABC,0,137990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,DOS,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated,2685,104990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,AMD Radeon Radeon Graphics,3909,88990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,79990.0
+Yes,512,16.0,Windows,AMD Radeon,3356,83990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,38990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,56990.0
+Yes,512,8.0,Windows,NVIDIA GeForce MX450,3733,70430.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,94990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,112990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon,4570,50990.0
+Yes,1000,16.0,Mac,ABC,0,229990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,39999.0
+Yes,512,8.0,Windows,AMD Radeon Radeon,4570,54990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,1000,32.0,Mac,ABC,0,309490.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,74800.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,167990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon Graphics,3909,40990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,57990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070,22476,172791.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,256,8.0,Windows,AMD Radeon AMD,3876,36990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,1000,16.0,Windows,Intel Integrated Integrated,2685,124990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,68990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,16.0,Windows,NVIDIA GeForce MX330,2718,72500.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe Graphics,2685,64990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,129490.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,89990.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX RTX 3080 Ti,27338,263990.0
+Yes,256,8.0,Windows,Intel Integrated UHD Graphics,2986,42907.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,37890.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,67990.0
+Yes,256,8.0,Windows,Intel Integrated,2986,41890.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+Yes,1000,16.0,Windows,ABC,0,146490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,256,4.0,DOS,AMD Radeon RADEON,4570,21990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3060,17121,81891.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,114990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,47940.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX 4090,38904,354990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,134990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,119990.0
+Yes,512,16.0,Windows,Intel Integrated AMD,2986,64990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,16.0,Windows,Intel Integrated AMD,2986,62990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,62990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2060,14114,174490.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 2050,6924,57990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 4070,26840,199990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,304990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,55990.0
+Yes,512,8.0,Windows,Intel Integrated Intel® UHD Graphics,2986,35490.0
+Yes,512,16.0,Windows,Intel Integrated,2986,64400.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,64990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,39990.0
+Yes,512,16.0,Windows,ABC,0,145490.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,140131.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,110990.0
+Yes,0,8.0,Windows,AMD Radeon AMD,3876,25990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,115990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,256,4.0,Windows,Intel Integrated HD,2986,40490.0
+Yes,1000,16.0,Mac,ABC,0,243990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4050,38904,159990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,55490.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX 3060,17121,169990.0
+Yes,256,8.0,Mac,ABC,0,134900.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,256,8.0,Windows,Intel Integrated Iris XE,2685,47000.0
+Yes,1000,16.0,Mac,ABC,0,225090.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Mac,ABC,0,154900.0
+Yes,512,8.0,Mac,ABC,0,154900.0
+Yes,256,8.0,Windows,AMD Radeon AMD,3876,47852.0
+Yes,512,8.0,Mac,ABC,0,137990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,NVIDIA GeForce MX550,4546,85749.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,63490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,69990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,79990.0
+Yes,512,8.0,Windows,AMD Radeon,3356,51800.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 4080,34781,335990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,256,8.0,Windows,NVIDIA GeForce GTX 1650 Ti,7566,69490.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4050,38904,174990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,87490.0
+Yes,256,8.0,Windows,AMD Radeon VEGA GRAPHICS,15667,50090.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2050,6924,82990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,115999.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4080,34781,269990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 2060,14114,202490.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,16.0,Windows,RDNA 2 RDNA 2,4029,70990.0
+Yes,1000,16.0,Windows,AMD Radeon AMD,3876,80990.0
+Yes,256,8.0,Windows,NVIDIA GeForce GTX 1650,7566,51990.0
+Yes,512,8.0,Windows,AMD Radeon,3356,34998.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,34990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,42990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 4050,38904,179990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,84990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,30990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,94990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,44000.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,74990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4060,19493,159990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX RTX3060-6GB,4479,99990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,53490.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,79990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon,4570,78061.0
+Yes,256,8.0,Windows,Intel Integrated UHD Graphics,2986,38890.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,38990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,72990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,33990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,74990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4050,38904,154990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,37490.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,196990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,30990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4060,19493,149990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,86490.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,Intel Integrated UHD,2986,47990.0
+Yes,512,8.0,Windows,AMD Radeon Radeon,4570,37990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3080,25365,323990.0
+Yes,512,8.0,Mac,Intel Integrated Iris Plus 655,2685,162490.0
+Yes,1000,16.0,Windows,AMD Radeon AMD,3876,104990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2050,6924,56990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,42990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,47000.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,4.0,Windows,Intel Integrated UHD,2986,34990.0
+Yes,256,8.0,Windows,Intel Integrated Iris Xe Graphics,2685,52990.0
+Yes,128,4.0,Windows,Intel Integrated UHD Graphics,2986,28090.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX 3080 Ti,27338,361990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,56990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,40390.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,275990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,76990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,79990.0
+Yes,1000,16.0,Windows,AMD Radeon RX 6800M,13084,119990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,25490.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070,22476,172791.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,68400.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3080 Ti,27338,241990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,88490.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,59490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,DOS,AMD Radeon AMD,3876,32990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,65490.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,109990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated,2685,87999.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,37990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,52990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,47716.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070,22476,166499.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,104990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070,22476,195490.0
+Yes,512,8.0,Mac,ABC,0,137990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 2080 Super Max-Q,19597,183490.0
+Yes,512,8.0,Windows,Intel Integrated Intel® Iris® Xe Graphics eligible,2685,57999.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,105990.0
+Yes,512,16.0,Windows,Intel Integrated Intel UHD Graphics,2986,68999.0
+Yes,512,16.0,Windows,NA MX450_2GB_G6_64B,10474,74889.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,126990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe Graphics,2685,72990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3080,25365,159990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 2050,6924,144990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,31499.0
+Yes,512,8.0,Windows,Intel Integrated,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated Intel Iris Xe Graphics,2685,66990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,43990.0
+Yes,256,16.0,Windows,NVIDIA GeForce RTX 3050,12982,62990.0
+Yes,1000,16.0,Windows,AMD Radeon AMD Radeon Graphics,2888,134990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX 4090,38904,429990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe Graphics,2685,69499.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,133990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,60000.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated,2685,117990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,300490.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,244990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,61990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,157900.0
+Yes,2000,16.0,Windows,NVIDIA GeForce RTX 4070,26840,279990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3060,17121,109990.0
+Yes,512,4.0,Windows,Intel Integrated UHD,2986,37990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,69990.0
+Yes,2000,64.0,Windows,NVIDIA GeForce RTX 4080,34781,480990.0
+Yes,512,8.0,DOS,Intel Integrated Intel® UHD Graphics,2986,32990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RTX 3050,29831,113990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3060,17121,99500.0
+Yes,2000,32.0,Windows,NVIDIA GeForce RTX 3080 Ti,27338,391990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,66990.0
+Yes,512,8.0,DOS,Intel Integrated,2986,37999.0
+Yes,512,16.0,Windows,Intel Integrated,2986,61490.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,45999.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,63890.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,109990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,52990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,114990.0
+Yes,512,16.0,Windows,Intel Integrated UHD,2986,63990.0
+Yes,512,16.0,Windows,AMD Radeon Integrated AMD Radeon Graphics,2888,64990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX GTX 1650,7566,67490.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,234990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,74990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4070,26840,244990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,91958.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,66490.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RX 6700S- 8GB,9751,152990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,37990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,AMD Radeon,3356,56990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,49990.0
+Yes,1000,32.0,Windows,AMD Radeon 6800S,3308,176990.0
+Yes,1000,16.0,Windows,AMD Radeon AMD Radeon Graphics,2888,112990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe Graphics,2685,44990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,38244.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,65990.0
+Yes,256,8.0,Windows,Intel Integrated UHD Graphics,2986,34490.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,42900.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,37990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,92290.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,62990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated,2685,102990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,72878.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,1000,16.0,Windows,AMD Radeon Radeon 680M,3267,129990.0
+Yes,512,16.0,Windows,NVIDIA GeForce GTX 1650,7566,61990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 2050,6924,68990.0
+Yes,1000,32.0,Mac,ABC,0,303990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,85990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,280490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,NVIDIA GeForce MX550,4546,157375.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,56490.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 4050,38904,144990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,136990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,256,4.0,Windows,Intel Integrated UHD,2986,37800.0
+Yes,2000,16.0,Windows,NVIDIA GeForce RTX 2070 with Max-Q Design,11885,150490.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,1000,16.0,Windows,Intel Integrated Integrated,2685,149990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,33999.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650Ti,7566,66990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3060,17121,112390.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,78990.0
+Yes,512,16.0,Windows,AMD Radeon AMD Radeon Vega 7,4533,60990.0
+Yes,512,4.0,Windows,NVIDIA GeForce MX350,2818,52490.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX RTX 3050 4GB Graphics Card,7032,70190.0
+Yes,512,8.0,Windows,Intel Integrated,2986,48990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated Intel UHD Graphics,2986,85989.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,161990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,110304.0
+Yes,256,8.0,Windows,AMD Radeon,3356,45290.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,AMD Radeon amd,3876,65990.0
+Yes,256,8.0,Windows,NVIDIA GeForce GTX 1650 Max Q,7566,63990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,57990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,58900.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,16.0,Windows,Intel Integrated Intel Iris Xe Graphics,2685,66490.0
+Yes,1000,16.0,Windows,Intel Integrated Integrated,2685,129990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,54990.0
+Yes,512,8.0,Windows,Intel Integrated Integrated,2685,65499.0
+Yes,512,16.0,Windows,NVIDIA GeForce GTX 1650,7566,59490.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,58249.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,74990.0
+Yes,1000,32.0,Windows,NVIDIA GeForce GTX 1650,7566,179990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,35990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,68990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,145791.0
+No,0,8.0,Windows,Intel Integrated UHD,2986,39600.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650 Ti,7566,71990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,199990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,1000,16.0,Windows,Intel Integrated UHD,2986,142490.0
+Yes,512,16.0,Windows,AMD Radeon Integrated AMD Radeon Graphics,2888,91750.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 3050,12982,74990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 2050,6924,54990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 4060,19493,123927.0
+Yes,256,8.0,Windows,Intel Integrated Iris Xe,2685,58500.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated Integrated AMD Radeon Graphics,2990,66489.0
+Yes,512,16.0,Windows,NVIDIA GeForce MX550,4546,73100.0
+Yes,512,16.0,Windows,Intel Integrated intel hd,2685,52000.0
+No,0,4.0,Chrome,Intel Integrated HD 500,2986,25990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,36590.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,74500.0
+Yes,512,8.0,Windows,Intel Integrated Intel® UHD Graphics,2986,50999.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,16.0,Windows,Intel Integrated UHD Graphics,2986,54990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 4060,19493,151990.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,103490.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,39890.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,52990.0
+Yes,512,16.0,Windows,Intel Integrated UHD,2986,39990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070,22476,162490.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070,22476,162990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,134990.0
+Yes,128,4.0,Windows,Intel Integrated UHD Graphics,2986,16490.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3060,17121,124990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,92990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,38990.0
+Yes,512,8.0,Windows,Intel Integrated UHD 620,2986,78990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,114990.0
+Yes,512,8.0,Windows,Intel Integrated,2986,33990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,AMD Radeon AMD,3876,54490.0
+Yes,256,8.0,Windows,AMD Radeon Radeon,4570,34499.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,87990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,38990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,39889.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,78990.0
+Yes,1000,16.0,Windows,Intel Integrated Integrated,2685,89790.0
+Yes,0,4.0,Chrome,Intel Integrated UHD,2986,23990.0
+Yes,512,16.0,Windows,AMD Radeon AMD,3876,43990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+No,0,8.0,Windows,Intel Integrated,2986,37990.0
+Yes,512,16.0,Windows,AMD Radeon,3356,75999.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,35990.0
+Yes,256,8.0,Windows,Intel Integrated UHD,2986,38999.0
+Yes,512,16.0,Windows,AMD Radeon,3356,73790.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,46650.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050Ti,12982,92990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3050 Ti,29831,171990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RTX3050Ti- 4GB,4479,117999.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+Yes,512,8.0,Windows,NVIDIA GeForce RTX 4060,19493,174100.0
+Yes,256,8.0,Windows,Intel Integrated UHD 620,2986,67990.0
+Yes,512,16.0,Windows,NVIDIA GeForce MX450,3733,63999.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX 3070 Ti,23762,144990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,1000,16.0,Windows,Intel Integrated Iris Xe,2685,165990.0
+Yes,8,4.0,Windows,NVIDIA GeForce MX130,2866,59129.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX NVIDIA® GeForce® GTX 1650,3834,60590.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,52990.0
+Yes,512,16.0,Windows,"NVIDIA GeForce GTX NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1500 / 1635MHz, TGP 85W",3834,79999.0
+Yes,512,8.0,Windows,AMD Radeon Vega 8 Mobile,3002,43400.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,48990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,35990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RTX3060-6GB,4479,115600.0
+Yes,512,8.0,Windows,NVIDIA GeForce MX550,4546,73500.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,14990.0
+Yes,1000,16.0,Windows,NVIDIA GeForce RTX RTX3060-6GB,4479,115600.0
+Yes,512,16.0,Windows,Intel Integrated Intel Iris X Graphics,2685,104990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,54000.0
+No,0,8.0,Windows,Intel Integrated UHD,2986,37990.0
+Yes,512,8.0,Windows,Intel Integrated Intel UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,NVIDIA GeForce GTX 1650,7566,48990.0
+Yes,512,8.0,Windows,"Intel Integrated Integrated, Intel® Iris® X? Graphics",2685,60990.0
+Yes,512,8.0,Windows,Intel Integrated Iris Xe,2685,62990.0
+Yes,512,8.0,Windows,Intel Integrated UHD,2986,35990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics 600,3807,17990.0
+Yes,1000,32.0,Windows,Arc A370M A370M,7359,185490.0
+Yes,512,8.0,Windows,Intel Integrated Iris Plus,2685,126000.0
+Yes,1000,16.0,Windows,NVIDIA GeForce GTX 1050Ti,6301,197990.0
+Yes,512,16.0,Windows,AMD Radeon,3356,66999.0
+Yes,256,8.0,Windows,NA Intel UHD Graphics,2985,18990.0
+No,0,4.0,Chrome,Intel Integrated UHD Graphics,2986,22990.0
+Yes,512,8.0,Windows,Intel Integrated UHD 620,2986,64990.0
+Yes,512,8.0,Windows,Intel Integrated UHD Graphics,2986,47990.0
+No,0,4.0,Prime,MediaTek Integrated ARM Mali G72,4466,13990.0
+Yes,512,16.0,Windows,Intel Integrated Iris Xe,2685,53990.0
+Yes,512,8.0,Windows,Intel Integrated UHD 620,2986,86000.0
+Yes,512,16.0,Windows,NVIDIA GeForce RTX 3050,12982,81550.0
