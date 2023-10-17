@@ -33,7 +33,7 @@ Happy coding.👍
 
 <div id="Open-Source-Program"></div>
 
-# This Project is a part of Hacktober Fest 2k23
+# This Project is a part of HacktoberFest 2k23
 
 <br>
 
@@ -55,7 +55,7 @@ Happy coding.👍
 
 # General information Before you begin💻
 
-We would request you to go through the contributing guidelines throughly so that you know what you are doing.
+We would request you to go through the contributing guidelines thoroughly so that you know what you are doing.
 
 Little knowledge of Github would be benificial for you so that you know what you are doing.
 
@@ -67,13 +67,13 @@ Little knowledge of Github would be benificial for you so that you know what you
 
 Only contribute to the existing projects for any feature that can be added for making it more optimised by first raising an issue.
 
-These are some instructions on how to create a pull request
+You can follow anyone of these two options to get started:
 
 ### Option 1. Complete this process in GitHub (in your browser)
 
 ```mermaid
 flowchart LR
-    Fork[Fork the project]-->branch[Create a New Branch]
+    Fork[Fork the project]-->Clone[Clone the project]-->branch[Create a New Branch]
     branch-->Edit[Edit file]
     Edit-->commit[Commit the changes]
     commit -->|Finally|creatpr((Create a Pull Request))
@@ -110,7 +110,7 @@ You can ask questions by raising an [issue](https://github.com/Google-Developer-
 
 **2. Clone this project on your computer:**
 
-- Go to your profile. You will find forked repo named **_open-source-practice_**. go to the repo by clicking on it.
+- Go to your profile. You will find forked repo named **Machine-Learning-Projects**. Go to the repo by clicking on it.
 - Click on the green Code button, then either the HTTPS or SSH option, and, click the icon to copy the URL. Now you have a copy of the project. Thus, you can play around with it locally on your computer.
 
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
@@ -178,7 +178,7 @@ Please make sure you have the correct access rights and that the repository exis
 
 - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button! 
 
-- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the Machine Learning Projects repository. Do not make any changes in the selected values of the branches (do so only if needed), and click the green `Create Pull Request` button.
   Note: A pull request allows us to merge your changes with the original project repo.
 
 - Your pull request will be reviewed and then eventually merged.
